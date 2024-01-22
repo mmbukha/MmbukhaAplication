@@ -1,0 +1,29 @@
+form{
+    background-color:deepskyblue;
+    width: 30%;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+
+legend{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+button{
+    background-color: #34e50d;
+    text-align: center;
+}
+button{
+
+    background-color: limegreen;
+    text-align: center;
+}
+.description{
+    display: flex;
+}
+h1{
+    text-align: center;
+}
